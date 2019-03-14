@@ -1,0 +1,14 @@
+*~
+.venv/*
+*/__pycache__/*
+*/.ipynb_checkpoints/*
+*.orig
+*.rej
+*.patch
+*.html
+*.asciidoc
+*.json
+images
+theme
+tools
+callouts
