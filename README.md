@@ -1,3 +1,3 @@
 # programming-bitcoin
-Bitcoin Script examples (Python 3.5)
+Bitcoin Script examples (Python3)
 Inspiration from "Programming Bitcoin" by [@jimmysong](https://github.com/jimmysong)
